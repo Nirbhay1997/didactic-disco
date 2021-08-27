@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.nirbhay1997.didacticdisco.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.nirbhay1997.didacticdisco.MyBundle
 
 class MyApplicationService {
 
